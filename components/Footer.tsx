@@ -20,7 +20,7 @@ const Footer = () => {
             className='max-sm:size-100'
         />
         <div >
-        <p>nfo@centrius.kz</p>
+        <p>info@centrius.kz</p>
         <p>+7 701 220 55 43</p>
         </div>
      
