@@ -1,7 +1,7 @@
 import React from 'react'
 import Image from 'next/image'
 
-// border border-red-500
+
 
 const Home = () => {
   return (
@@ -34,10 +34,8 @@ const Home = () => {
             <h2 className="text-2xl sm:text-6xl sm:font-bold py-10">специализация</h2>
             <div><p className='text-primary text-4xl sm:font-bold text-center'>1</p>
               <p className='py-5'> Консультируем по правовым
-                вопросам в области недрополь
-                зования, инвестиционного,
-                строительного, трудового и кор
-                поративного права</p>
+                вопросам в области недропользования, инвестиционного,
+                строительного, трудового и корпоративного права</p>
             </div>
             <div><p className='text-primary text-4xl sm:font-bold text-center'>2</p>
               <p className='py-5 '>
